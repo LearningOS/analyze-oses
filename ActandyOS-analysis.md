@@ -20,11 +20,11 @@ RISCV64内核初始化部分的代码，与zCore的初始化过程类似。
 `future/tests.rs`
 
 `future::init` --> `future/executor.rs::init`
-Future执行器的初始化：
-`Executor`结构体通过`VecDeque`来保存`Task`;
-`CPUS`全局静态数组中保存所有CPU核的信息，包括运行状态，当前线程，执行器结构体`Executor`；
-`Executor::spawn`  对future轮询并执行；
- 
+<br>Future执行器的初始化：
+* `Executor`结构体通过`VecDeque`来保存`Task`;
+* `CPUS`全局静态数组中保存所有CPU核的信息，包括运行状态，当前线程，执行器结构体`Executor`；
+* `Executor::spawn`  对future轮询并执行；
+  
 
 
 
