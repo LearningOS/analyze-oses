@@ -34,4 +34,4 @@ Theseus is a new OS written from scratch in Rust to experiment with novel OS str
 
 
 ## 联系人
-陈渝 github id: chyyuu  wechat id: chyyuu
+chenyu -- github id: chyyuu  wechat id: chyyuu
