@@ -10,7 +10,7 @@ Aero is a new modern, experimental, unix-like operating system written in Rust. 
 - aarch64
 - x86-64
 - kernel module
-- call stack backtrace
+- [call stack backtrace](./Aero BackTrace 分析.md)
 - network
 - ext2 filesystem
 - boot
