@@ -21,6 +21,7 @@ Aero is a new modern, experimental, unix-like operating system written in Rust. 
 ## [theseus](https://github.com/theseus-os/Theseus)
 Theseus is a new OS written from scratch in Rust to experiment with novel OS structure, better state management, and how to leverage intralingual design principles to shift OS responsibilities like resource management into the compiler.
 
+- [overview](./Theseus/overview.md)
 - aarch64
 - x86-64
 - kernel module
