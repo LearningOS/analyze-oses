@@ -26,8 +26,11 @@ RISCV64内核初始化部分的代码，与zCore的初始化过程类似。
 * `Executor::spawn`  对future轮询并执行；
   
 
+<br>
+更多文档及代码注释等请见：<br>
+https://github.com/ActandyOS/actandy/commits/comment-zyr-dev
 
-
+---
 
 ### 快速运行
 
